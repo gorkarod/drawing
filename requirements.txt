@@ -148,6 +148,8 @@ pyobjc-framework-VideoToolbox==8.4.1
 pyobjc-framework-Virtualization==8.4.1
 pyobjc-framework-Vision==8.4.1
 pyobjc-framework-WebKit==8.4.1
+pysketch==1.2
+pysketchapp==0.1
 six==1.16.0
 svgwrite==1.4.1
 tornado==6.1
