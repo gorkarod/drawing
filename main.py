@@ -1,6 +1,6 @@
-# from pagebot.document import Document
-# from pagebot.elements import newText
-# from pagebot.fonttoolbox.objects.font import findFont
+from pagebot.document import Document
+from pagebot.elements import newText
+from pagebot.fonttoolbox.objects.font import findFont
 
 import drawBot
 

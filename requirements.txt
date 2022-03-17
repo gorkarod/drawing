@@ -1,11 +1,13 @@
 booleanOperations==0.9.0
 git+https://github.com/typemytype/drawbot@3.128#egg=drawBot
+git+https://github.com/PageBot/PySketchApp@1.2#egg=pysketch
 Flat==0.3.2
 fonttools==4.30.0
 importlib-metadata==4.11.3
 libsass==0.21.0
 Markdown==3.3.6
 pagebot==1.0.3
+pagebotosx==1.0.3
 Pillow==9.0.1
 pyclipper==1.3.0.post2
 pyobjc==8.4.1
@@ -120,6 +122,7 @@ pyobjc-framework-QuickLookThumbnailing==8.4.1
 pyobjc-framework-ReplayKit==8.4.1
 pyobjc-framework-SafariServices==8.4.1
 pyobjc-framework-SceneKit==8.4.1
+pyobjc-framework-ScreenCaptureKit==8.4.1
 pyobjc-framework-ScreenSaver==8.4.1
 pyobjc-framework-ScreenTime==8.4.1
 pyobjc-framework-ScriptingBridge==8.4.1
